@@ -163,7 +163,7 @@ your preferred browser.
 ```
 * `@scaladoc[Flow](akka.stream.scaladsl.Flow)` (see [Paradox docs](https://developer.lightbend.com/docs/paradox/current/directives/linking.html#scaladoc-directive))
 
-
+* `@apidoc[Flow]` searches for the class name and creates links to Scaladoc and Javadoc (see variants in [sbt-paradox-apidoc](https://github.com/lightbend/sbt-paradox-apidoc#examples))
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
